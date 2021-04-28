@@ -31,4 +31,12 @@ export class AppComponent {
   goNinjaion() {
     window.location.href = "http://www.ninjaph.com/cpshop/PPS15142560";
   }
+
+  goShopForMe() {
+    window.location.href = "https://toktok.ph/pabiliservice/PPS15142560";
+  }
+
+  goJcShop() {
+    window.location.href = "https://jcshop.ph/PPS15142560";
+  }
 }
